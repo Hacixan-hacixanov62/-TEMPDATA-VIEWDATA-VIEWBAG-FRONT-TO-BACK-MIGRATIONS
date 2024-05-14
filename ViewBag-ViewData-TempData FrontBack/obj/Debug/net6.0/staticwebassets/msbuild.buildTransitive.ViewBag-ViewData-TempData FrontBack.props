@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ViewBag-ViewData-TempData FrontBack.props" />
+</Project>

@@ -1,0 +1,93 @@
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\appsettings.Development.json
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\appsettings.json
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.exe
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.deps.json
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.runtimeconfig.json
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.dll
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.pdb
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.AssemblyInfoInputs.cache
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.AssemblyInfo.cs
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.csproj.CoreCompileInputs.cache
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.MvcApplicationPartsAssemblyInfo.cache
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.RazorAssemblyInfo.cache
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.RazorAssemblyInfo.cs
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\staticwebassets.build.json
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\staticwebassets.development.json
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\staticwebassets\msbuild.ViewBag-ViewData-TempData FrontBack.Microsoft.AspNetCore.StaticWebAssets.props
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\staticwebassets\msbuild.build.ViewBag-ViewData-TempData FrontBack.props
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ViewBag-ViewData-TempData FrontBack.props
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ViewBag-ViewData-TempData FrontBack.props
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\staticwebassets.pack.json
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\scopedcss\bundle\ViewBag-ViewData-TempData FrontBack.styles.css
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.dll
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\refint\ViewBag-ViewData-TempData FrontBack.dll
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.pdb
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.genruntimeconfig.cache
+C:\C#\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ref\ViewBag-ViewData-TempData FrontBack.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\appsettings.Development.json
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\appsettings.json
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.exe
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.deps.json
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.runtimeconfig.json
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.pdb
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.AssemblyInfoInputs.cache
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.AssemblyInfo.cs
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.csproj.CoreCompileInputs.cache
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.MvcApplicationPartsAssemblyInfo.cache
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.RazorAssemblyInfo.cache
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.RazorAssemblyInfo.cs
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\staticwebassets.build.json
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\staticwebassets.development.json
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\staticwebassets\msbuild.ViewBag-ViewData-TempData FrontBack.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\staticwebassets\msbuild.build.ViewBag-ViewData-TempData FrontBack.props
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ViewBag-ViewData-TempData FrontBack.props
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ViewBag-ViewData-TempData FrontBack.props
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\scopedcss\bundle\ViewBag-ViewData-TempData FrontBack.styles.css
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\refint\ViewBag-ViewData-TempData FrontBack.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.pdb
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.genruntimeconfig.cache
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ref\ViewBag-ViewData-TempData FrontBack.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\Humanizer.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.csproj.AssemblyReference.cache
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\obj\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.csproj.CopyComplete
+C:\Asp.Net Tasks\ViewBag-ViewData-TempData FrontBack\ViewBag-ViewData-TempData FrontBack\bin\Debug\net6.0\ViewBag-ViewData-TempData FrontBack.staticwebassets.runtime.json
